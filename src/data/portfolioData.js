@@ -74,15 +74,7 @@ export const portfolioData = {
       metrics: "Automated E2E Suite",
       github: "https://github.com/Maneedeep"
     },
-    {
-      id: "ecovision",
-      title: "ECOVISION",
-      category: "Machine Learning & Web",
-      stack: ["Python", "Deep Learning", "Web Interface"],
-      description: "Implemented a deep learning seasonal detection model with a Python API/web interface.",
-      metrics: "Seasonal Detection Model",
-      github: "https://github.com/ManeedeepM"
-    }
+    
   ],
   education: [
     {
